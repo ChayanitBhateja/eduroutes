@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "581174260152",
+    "firebase_url": "https://eduroutes-ff4e8.firebaseio.com",
+    "project_id": "eduroutes-ff4e8",
+    "storage_bucket": "eduroutes-ff4e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581174260152:android:cf107abd47ab0b4af35f4d",
+        "android_client_info": {
+          "package_name": "com.eduroutes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581174260152-i3ksfokm2r54ggpvg78s7cn6esdmbiag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eduroutes",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "581174260152-n22t70eqhuf92i461idafabo66nea8c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eduroutes",
+            "certificate_hash": "f1115fed9fca0feaa37f4c257d5bbb3e94b3fa4e"
+          }
+        },
+        {
+          "client_id": "581174260152-3au0is6s1neg16lur5vp9l1b114nid4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-9n6I91i8vbT_GL4ozznG63MzqUDpZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581174260152-3au0is6s1neg16lur5vp9l1b114nid4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
